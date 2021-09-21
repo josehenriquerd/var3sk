@@ -3,6 +3,7 @@
 - 👨🏻‍💻 Atualmente estou cursando Engenharia Da Computação;
 - 🪐 Eu gosto de Front-end mas com uma quedinha por Data Science;
 - ⚡ Eu gosto de programar escutando MPB.
+- 🍃 "I'm dev clean and lean".
 
 <div>
   <a href="https://github.com/var3sk">
@@ -21,3 +22,4 @@
   
   ##
 
+ 
