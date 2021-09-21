@@ -1,4 +1,4 @@
-<h1>Hey, my name is José Henrique👋</h1>
+<h1>Hey, I'm José Henrique👋</h1>
 
 - 👨🏻‍💻 Atualmente estou cursando Engenharia Da Computação;
 - 🪐 Eu gosto de Front-end mas com uma quedinha por Data Science;
